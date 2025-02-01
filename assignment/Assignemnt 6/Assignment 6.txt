@@ -1,0 +1,1 @@
+Implement a function isFibo that takes in an integer array of any size and determines if it contains or does not contain a Fibonacci sequence. Also, write the main program that tests the function on different inputs. The function must be efficient.

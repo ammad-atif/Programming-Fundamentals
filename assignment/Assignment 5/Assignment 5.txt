@@ -1,0 +1,5 @@
+Write a C++ code that takes input from a user in 2 integer arrays of size 10 each. The program prints "same" if the sum of the two arrays is the same otherwise it prints the array with the largest sum.
+
+
+e.g  A1 = 1 2 3 4 5 6 7 8 9 10.  A2 = 3 2 5 11 4 1 7 6 8 8
+Output: same
